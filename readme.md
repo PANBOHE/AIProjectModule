@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: Panbo Hey
  * @Date: 2023-11-30 16:51:10
- * @LastEditTime: 2023-11-30 16:55:46
+ * @LastEditTime: 2023-12-05 15:53:29
  * @LastEditors: Panbo Hey
 -->
 
@@ -54,6 +54,10 @@ git checkout dev
     8. 文档和注释:
         为函数和类添加文档字符串，说明它们的用途、参数和返回值。
         
+### 2023年12月5日
+Author: Panbo
+1. 新增通过kafka部署模式
+2. 新增deploy.py
 
 
 ### 2023年11月29日

@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: Panbo Hey
  * @Date: 2023-11-30 16:51:10
- * @LastEditTime: 2023-12-05 15:53:29
+ * @LastEditTime: 2023-12-07 10:43:24
  * @LastEditors: Panbo Hey
 -->
 
@@ -53,7 +53,16 @@ git checkout dev
 
     8. 文档和注释:
         为函数和类添加文档字符串，说明它们的用途、参数和返回值。
-        
+
+### 2023年12月7日
+Author：Panbo
+1. 新增/logs/logsfile.py
+该模块在项目部署时候针对多个不同的项目使用
+2. 新增/core/utils/clear_files_on_time.py
+3. 新增main_work.py 包括多线程代码
+4. 新增run_work.py 包括python执行脚本问题
+
+
 ### 2023年12月5日
 Author: Panbo
 1. 新增通过kafka部署模式
